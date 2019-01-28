@@ -1,0 +1,225 @@
+body{font-family: 'Lato', sans-serif;
+background: #313A41}
+.main
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 60px;
+
+}
+.b1
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+.main
+{
+	display: flex; /*гибкий блок*/
+	flex-direction: row;/*направление гл. оси*/
+	/*column-reverse,column,row,row-reverse*/
+	justify-content: flex-start;
+	/*flex-end,flex-start,space-between,space-around*/
+	align-items: flex-start;
+	/*center,flex-end,stretch,flex-start*/
+}
+.fl1{font-size: 10px}
+.fl2{font-size: 10px}
+.fl3{font-size: 10px}
+.fl4{font-size: 10px}
+.fl5{font-size: 10px}
+.fl6{font-size: 10px}
+.fl7{font-size: 10px}
+.fl8{font-size: 10px}
+.fl9{font-size: 10px}
+.fl10{font-size: 10px}
+.fl11{font-size: 10px}
+.fl12{font-size: 10px}
+ .main2
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 60px;
+
+}
+.b2
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+
+.main2
+{
+display: flex;
+flex-direction: row;
+justify-content:flex-start;
+ align-items: baseline;
+} 
+.fl4{font-size: 10px}
+.fl5{font-size: 10px}
+.fl6{font-size: 10px}
+.fl4{font-size: 10px}
+.fl5{font-size: 10px}
+.fl6{font-size: 10px}
+.fl7{font-size: 10px}
+.fl8{font-size: 10px}
+.fl9{font-size: 10px}
+.fl10{font-size: 10px}
+.fl11{font-size: 10px}
+.fl12{font-size: 10px}
+
+ .main3
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 60px;
+
+}
+.b3
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+
+.main3
+{
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+ align-items: baseline;
+ width:500px;
+ flex-wrap:wrap;
+
+} 
+.fl13{font-size: 10px}
+.fl14{font-size: 10px}
+.fl15{font-size: 10px}
+.fl16{font-size: 10px}
+.fl17{font-size: 10px}
+.fl18{font-size: 10px}
+.fl19{font-size: 10px}
+.fl20{font-size: 10px}
+.fl21{font-size: 10px}
+.fl22{font-size: 10px}
+.fl23{font-size: 10px}
+.fl24{font-size: 10px}
+
+ .main4
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 360px;
+
+}
+.b4
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+
+.main4
+{
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+ align-items: baseline;
+
+} 
+
+.fl25{font-size: 10px}
+.fl26{font-size: 10px}
+.fl27{font-size: 10px}
+.fl28{font-size: 10px}
+.fl29{font-size: 10px}
+.fl30{font-size: 10px}
+.fl31{font-size: 10px}
+.fl32{font-size: 10px}
+.fl33{font-size: 10px}
+.fl34{font-size: 10px}
+.fl35{font-size: 10px}
+.fl36{font-size: 10px}
+
+ .main5
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 60px;
+
+}
+.b5
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+
+.main5
+{
+display: flex;
+flex-direction: row;
+justify-content:flex-end;
+ align-items: baseline;
+
+} 
+.fl36{font-size: 10px}
+.fl37{font-size: 10px}
+.fl38{font-size: 10px}
+.fl39{font-size: 10px}
+.fl40{font-size: 10px}
+.fl41{font-size: 10px}
+.fl42{font-size: 10px}
+.fl43{font-size: 10px}
+.fl44{font-size: 10px}
+.fl45{font-size: 10px}
+.fl46{font-size: 10px}
+.fl47{font-size: 10px}
+
+ .main6
+{
+	margin: 20px;
+	background: #dadada;
+	padding: 20px;
+	border-radius:5px;
+	height: 60px;
+
+}
+.b6
+{
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 20px; 
+}
+
+.main6
+{
+display:-webkit-flex;
+flex-direction: row;
+justify-content:space-between;
+ align-items: baseline;
+
+} 
+.fl48{font-size: 10px}
+.fl49{font-size: 10px}
+.fl50{font-size: 10px}
+.fl51{font-size: 10px}
+.fl52{font-size: 10px}
+.fl53{font-size: 10px}
+.fl54{font-size: 10px}
+.fl55{font-size: 10px}
+.fl56{font-size: 10px}
+.fl57{font-size: 10px}
+.fl58{font-size: 10px}
+.fl59{font-size:10px}
